@@ -1,0 +1,13 @@
+build/
+out/
+.vs/
+*.user
+imgui.ini
+
+# Runtime artifacts written beside the executable
+g29studio_selftest*.txt
+g29studio_selftest*.ini
+g29studio_selftest*.lut
+g29studio_diag.txt
+g29studio_bridge.txt
+g29studio_calibrate.txt
